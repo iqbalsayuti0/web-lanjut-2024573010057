@@ -1,5 +1,8 @@
 {
     "require": {
         "doctrine/dbal": "^4.3"
+    },
+    "require-dev": {
+        "laravel/breeze": "^2.3"
     }
 }
